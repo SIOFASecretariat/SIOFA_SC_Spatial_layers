@@ -1,0 +1,41 @@
+SubAreaNo,SubArea,Lat,Lon
+1,Mozambique Ridge,-20,30
+1,Mozambique Ridge,-20,40
+1,Mozambique Ridge,-36,40
+1,Mozambique Ridge,-36,30
+2,Madagascar Ridge,-20,40
+2,Madagascar Ridge,-20,49
+2,Madagascar Ridge,-36,49
+2,Madagascar Ridge,-36,40
+3a,Northern SW Indian Ridge,-20,49
+3a,Northern SW Indian Ridge,-20,65
+3a,Northern SW Indian Ridge,-36,65
+3a,Northern SW Indian Ridge,-36,49
+3b,Southern SW Indian Ridge,-36,30
+3b,Southern SW Indian Ridge,-36,65
+3b,Southern SW Indian Ridge,-45,65
+3b,Southern SW Indian Ridge,-45,30
+6,Mid-Indian Ridge,-20,65
+6,Mid-Indian Ridge,-20,80
+6,Mid-Indian Ridge,-45,80
+6,Mid-Indian Ridge,-45,65
+4,Nitety Degree East Ridge,-20,80
+4,Nitety Degree East Ridge,-20,90
+4,Nitety Degree East Ridge,-36,90
+4,Nitety Degree East Ridge,-36,80
+5,Broken Ridge,-25,90
+5,Broken Ridge,-25,105
+5,Broken Ridge,-36,105
+5,Broken Ridge,-36,90
+7,SE Indian Ocean,-20,80
+7,SE Indian Ocean,-20,120
+7,SE Indian Ocean,-55,120
+7,SE Indian Ocean,-55,80
+8w,North of 20°S West,10,30
+8w,North of 20°S West,10,65
+8w,North of 20°S West,-20,65
+8w,North of 20°S West,-20,30
+8e,North of 20°S East,0,65
+8e,North of 20°S East,0,80
+8e,North of 20°S East,-20,80
+8e,North of 20°S East,-20,65
